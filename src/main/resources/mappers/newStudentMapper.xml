@@ -14,7 +14,7 @@
 			, `createdAt`
 			, `updatedAt`
 		)
-		VALUES
+		VALUES 
 		(
 			#{name}
 			, #{phoneNumber}
